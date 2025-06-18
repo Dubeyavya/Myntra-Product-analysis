@@ -34,6 +34,11 @@ The dashboard titled **"Myntra Product Analysis"** features:
 - **Insights Summary Page** titled **"Fashion by the Numbers: Smart Picks & Hot Drops"** presenting key observations.
 - **Q&A Bar** for exploring trends with pre-defined queries.
 
+## Check out the project:
+- Power BI Workspace: [https://app.powerbi.com/groups/me/reports/f6f629a6-74c7-43d7-a24b-a2830fc745af/563cec3cbbfa279f8a3d?experience=power-bi]
+- Web Link: [https://app.powerbi.com/view?r=eyJrIjoiMWQzZWFjN2EtODM5OS00MWUxLWI4ZTUtMGY1N2Y2YzI1NGQzIiwidCI6ImQyNWI2NTIxLTViZTYtNDAxNC04NDNmLTU4NDRmNDE5YWY3MyJ9&pageName=563cec3cbbfa279f8a3d]
+- QR Code: [https://drive.google.com/file/d/1BN_O_py-iEnyiiWptDH9SJg_Jc3P44tj/view?usp=sharing] (link to QR code image)
+
 ## Conclusion  
 This project provides a **data-driven perspective** on Myntra’s product offerings, helping consumers and analysts make informed decisions. The combination of **Excel data preparation** and **Power BI visualizations** ensures comprehensive analysis.
 
